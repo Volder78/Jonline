@@ -1,6 +1,6 @@
 package by.epam.module3.asarray;
 
-//Заменить в строке все вхождения 'word' на 'letter'
+// Р—Р°РјРµРЅРёС‚СЊ РІСЃРµ РІС…РѕР¶РґРµРЅРёСЏ 'word' РЅР° 'letter'
 
 import java.util.Scanner;
 
