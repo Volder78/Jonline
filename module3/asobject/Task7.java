@@ -1,5 +1,7 @@
 package by.epam.module3.asobject;
 
+// Вводится строка. Требуется удалить из нее повторяющиеся символы и пробелы
+
 import java.util.Scanner;
 
 public class Task7 {
