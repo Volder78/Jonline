@@ -1,5 +1,7 @@
 package by.epam.module3.asobject;
 
+// Проверить, является ли заданное слово палиндромом (вар.2)
+
 public class Task3a {
 
 	public static boolean isPallindrome(String s) {
