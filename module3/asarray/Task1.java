@@ -1,6 +1,6 @@
 package by.epam.module3.asarray;
 
-//Преобразовать названия переменных из camelCase в snake_case
+//Р”Р°РЅ РјР°СЃСЃРёРІ РЅР°Р·РІР°РЅРёР№ РїРµСЂРµРјРµРЅРЅС‹С… РІ camelCase. РџСЂРµРѕР±СЂР°Р·РѕРІР°С‚СЊ РЅР°Р·РІР°РЅРёСЏ РІ snake_case 
 
 public class Task1 {
 
