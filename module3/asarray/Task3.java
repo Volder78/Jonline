@@ -1,6 +1,6 @@
 package by.epam.module3.asarray;
 
-//В строке найти кол-во цифр
+// Р’ СЃС‚СЂРѕРєРµ РЅР°Р№С‚Рё РєРѕР»РёС‡РµСЃС‚РІРѕ С†РёС„СЂ
 
 import java.util.Scanner;
 
