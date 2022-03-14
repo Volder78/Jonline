@@ -2,7 +2,7 @@ package by.epam.module3.asobject;
 
 import java.util.Scanner;
 
-//Вставить после каждого символа 'a' символ 'b'
+//Р’ СЃС‚СЂРѕРєРµ РІСЃС‚Р°РІРёС‚СЊ РїРѕСЃР»Рµ РєР°Р¶РґРѕРіРѕ СЃРёРјРІРѕР»Р° 'a' СЃРёРјРІРѕР» 'b'
 
 public class Task2 {
 	
