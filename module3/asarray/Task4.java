@@ -2,7 +2,7 @@ package by.epam.module3.asarray;
 
 import java.util.Scanner;
 
-//В строке найти кол-во чисел
+// Р’ СЃС‚СЂРѕРєРµ РЅР°Р№С‚Рё РєРѕР»РёС‡РµСЃС‚РІРѕ С‡РёСЃРµР»
 
 public class Task4 {
 
