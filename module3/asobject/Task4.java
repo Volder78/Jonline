@@ -1,19 +1,19 @@
 package by.epam.module3.asobject;
 
-//Из букв слова "информатика" составить слово "торт"
+// РЎ РѕСЃС‚Р°РІРёС‚СЊ РёР· С‡Р°СЃС‚РµР№ СЃР»РѕРІР° 'РёРЅС„РѕСЂРјР°С‚РёРєР°' СЃР»РѕРІРѕ 'С‚РѕСЂС‚'
 
 public class Task4 {
 
 	public static void main(String[] args) {
-		String word1 = "информатика";
+		String word1 = "РёРЅС„РѕСЂРјР°С‚РёРєР°";
 		String word2;
 
 		StringBuffer b = new StringBuffer();
 
 		char[] word1Sym = word1.toCharArray();
-		char t = word1Sym[word1.indexOf('т')];
-		char o = word1Sym[word1.indexOf('о')];
-		char r = word1Sym[word1.indexOf('р')];
+		char t = word1Sym[word1.indexOf('ГІ')];
+		char o = word1Sym[word1.indexOf('Г®')];
+		char r = word1Sym[word1.indexOf('Г°')];
 
 		word2 = b.append(t).append(o).append(r).append(t).toString();
 
